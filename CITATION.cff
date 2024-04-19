@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Dislocation Relaxation Simulation for Low Energy Excess
+  Events (DRSLEEE)
+message: >-
+  This simulation package allows for a toy model of low
+  temperature dislocation relaxation in aluminuim as applied
+  to the observed Low Energy Excess in cryogenic detectors
+  to be simulated.
+type: software
+authors:
+  - given-names: Roger Kenneth
+    family-names: Romani
+    email: rkromani@gmail.com
+    affiliation: 'University of California, Berkeley'
+    orcid: 'https://orcid.org/0000-0002-9556-1876'
+repository-code: >-
+  https://github.com/rkromani/LEE-Dislocation-Simulations/tree/main
